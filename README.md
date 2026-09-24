@@ -8,17 +8,6 @@
 
 This repository contains all deliverables, templates, and artifacts produced during the 30-Day FDE Bootcamp. Each day's work is organized into its own directory with structured templates designed to build your skills progressively -- from foundational self-assessment through technical depth, customer skills, and a culminating capstone project.
 
----
-
-## About Me
-
-**Name:** *Your Name*
-**Background:** *Brief description of your professional background*
-**Target Role:** *Forward-Deployed Engineer / Solutions Engineer / Technical Account Manager*
-**Target Industries:** *Industries you're focusing on*
-**LinkedIn:** *Your LinkedIn URL*
-**GitHub:** *Your GitHub URL*
-**Email:** *Your email address*
 
 ---
 
