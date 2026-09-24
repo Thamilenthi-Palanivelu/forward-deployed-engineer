@@ -42,14 +42,14 @@ The 30-Day FDE Bootcamp is structured into four weeks plus a two-day capstone:
 **Problem:** *One-sentence description of the problem you solved*
 **Solution:** *One-sentence description of your solution*
 
-See the [`capstone/`](capstone/) directory for the full capstone deliverables:
-- [Discovery & Scoping](capstone/discovery.md)
-- [Architecture Design](capstone/architecture.md)
-- [Solution Code](capstone/src/README.md)
-- [Demo Script](capstone/demo-script.md)
-- [Presentation](capstone/presentation.md)
-- [Case Study](capstone/case-study.md)
-- [Follow-Up Package](capstone/follow-up-package/)
+See the [`capstone/`] directory for the full capstone deliverables:
+- [Discovery & Scoping]
+- [Architecture Design]
+- [Solution Code]
+- [Demo Script]
+- [Presentation]
+- [Case Study]
+- [Follow-Up Package]
 
 ---
 
