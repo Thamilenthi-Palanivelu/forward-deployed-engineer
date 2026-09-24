@@ -84,11 +84,4 @@ See the [`capstone/`] directory for the full capstone deliverables:
 
 Each directory contains markdown templates with clear headers, placeholder text, and tables ready to fill in. Start with Day 1 and work through sequentially, or jump to the sections most relevant to your current preparation needs.
 
----
 
-## Contact
-
-**Name:** *Your Name*
-**Email:** *Your email*
-**LinkedIn:** *Your LinkedIn URL*
-**Portfolio:** *Your portfolio URL*
